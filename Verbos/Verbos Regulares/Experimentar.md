@@ -1,4 +1,22 @@
-## (to) experiment
+(to) experiment
+## Usos de experimentar
+
+### Comida e bebida
+
+| Português                                                            | Inglês                                                                   |
+| :------------------------------------------------------------------- | :----------------------------------------------------------------------- |
+| Ele está experimentando a sopa                                       | He is trying the soup                                                    |
+| Posso experimentar um pouquinho?                                     | Can I try a bit of it?                                                   |
+| A propósito, você já experimentou feijoada?                          | By the way, have you ever tried feijoada?                                |
+| Como você sabe que não gosta de feijoada se você nunca experimentou? | How do you know that you don't like feijoada if you have never tried it? |
+### Roupas e sapatos
+
+| Português                            | Inglês                              |
+| :----------------------------------- | :---------------------------------- |
+| Amei aquele casaco. Vou experimentar | I love that jacket. I'll try it on. |
+| Posso experimentar?                  | Can I try it on?                    |
+
+## Conjugações
 
 | Gerúndio               |     | Tipo de verbo          |     |
 | :--------------------- | :-- | :--------------------- | :-- |
@@ -33,6 +51,7 @@
 | Nós                   |                |
 | Vós                   |                |
 | Vocês / Eles / Elas   |                |
-
-## Links
-[[Provar]] [[Testar]] [[Tentar]] [[Esforçar-se]] [[Learn to Use 'To Try' in 10 Minutes — Brazilian Portuguese Made Easy]]
+## Sinônimos
+[[Provar]] [[Testar]] [[Tentar]] [[Esforçar-se]] 
+## Fonte
+[[Learn to Use 'To Try' in 10 Minutes — Brazilian Portuguese Made Easy]]

@@ -1,9 +1,17 @@
-## (to) test
+(to) test
+## Usos de testar
 
-| Gerúndio               |     | Tipo de verbo          |     |
-| :--------------------- | :-- | :--------------------- | :-- |
-| **Particípio passado** |     | **Transitividade**     |     |
-| **Infinitivo**         |     | **Separação silábica** |     |
+| Português                                                            | Inglês                                                 |
+| :------------------------------------------------------------------- | :----------------------------------------------------- |
+| Ele está testando o software novo                                    | He is testing the new software                         |
+| Ele vai testar aquela câmera para ver se atende às suas necessidades | She will try that camera to see if it meets her needs  |
+| Você já testou o botão de curtir para ver se está funcionando?       | Have you tried the like button to see if it's working? |
+## Conjugações
+
+| Gerúndio               | testando | Tipo de verbo          | regular |
+| :--------------------- | :------- | :--------------------- | :------ |
+| **Particípio passado** | testado  | **Transitividade**     |         |
+| **Infinitivo**         | testar   | **Separação silábica** | tes-tar |
 
 | Indicativo |  |  |  |  |  |  |
 | ----- | :---- | :---- | :---- | :---- | :---- | :---- |
@@ -33,6 +41,7 @@
 | Nós                   |                |
 | Vós                   |                |
 | Vocês / Eles / Elas   |                |
-
-## Links
-[[Provar]] [[Experimentar]] [[Tentar]] [[Esforçar-se]] [[Learn to Use 'To Try' in 10 Minutes — Brazilian Portuguese Made Easy]]
+## Sinônimos
+[[Provar]] [[Experimentar]] [[Tentar]] [[Esforçar-se]]
+## Fonte
+ [[Learn to Use 'To Try' in 10 Minutes — Brazilian Portuguese Made Easy]]

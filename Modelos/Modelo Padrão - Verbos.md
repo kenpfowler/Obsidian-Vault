@@ -1,4 +1,9 @@
-## Legenda
+Legenda
+## Usos de verbo
+| Português | Inglês |
+| :-------- | :----- |
+|           |        |
+## Conjugações
 
 | Gerúndio               |     | Tipo de verbo          |     |
 | :--------------------- | :-- | :--------------------- | :-- |
@@ -33,5 +38,6 @@
 | Nós                   |                |
 | Vós                   |                |
 | Vocês / Eles / Elas   |                |
+## Sinônimos
 
-## Links
+## Fonte

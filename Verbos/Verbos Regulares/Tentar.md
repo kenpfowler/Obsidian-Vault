@@ -1,4 +1,19 @@
-## (to) make an effort / attempt
+(to) make an effort / attempt
+## Usos de tentar
+
+Tentar é frequentemente usado com um verbo no infinitivo para indicar uma ação que está sendo tentada.
+
+Em Inglês, usando o verbo "try" com outro verbo pode ter um significado ligeiramente diferente. Por exemplo, "try to talk to the manager" e "try talking to the manager" tem um significado diferente. Em Português, existe uma maneira de combinar os verbos com tentar: tentar conjugado + o verbo no infinitivo.
+
+| Português                                     | Inglês                                      |
+| :-------------------------------------------- | :------------------------------------------ |
+| Ela está tentando abrir o pote                | She is trying to open the jar               |
+| O menino está tentando montar o quebra-cabeça | The boy is trying to solve the puzzle       |
+| Ele já tentou três vezes                      | He has already tried three times            |
+| Vou tentar novamente                          | He will try again                           |
+| Ele decidiu tentar uma receita nova           | He decided to try a new recipe              |
+| Você tentou fazer algo novo recentemente?     | Have you tried to do anything new recently? |
+## Conjugações
 
 | Gerúndio               | tentando | Tipo de verbo          | regular                               |
 | :--------------------- | :------- | :--------------------- | :------------------------------------ |
@@ -15,15 +30,15 @@
 | Vós                   |                        |                          |                                 | tentais      | tentareis              |                         |
 | Vocês / Eles / Elas   | tentaram               | tentavam                 |                                 | tentam       | tentarão               | tentariam               |
 
-| Subjuntivo |  |  |  |
-| ----- | ----- | ----- | ----- |
+| Subjuntivo            |              |                          |            |
+| --------------------- | ------------ | ------------------------ | ---------- |
 | **Pronomes Pessoais** | **Presente** | **Pretérito Imperfeito** | **Futuro** |
-| Eu |  |  |  |
-| Tu |  |  |  |
-| Você / Ele / Ela |  |  |  |
-| Nós |  |  |  |
-| Vós |  |  |  |
-| Vocês / Eles / Elas |  |  |  |
+| Eu                    |              |                          |            |
+| Tu                    |              |                          |            |
+| Você / Ele / Ela      |              |                          |            |
+| Nós                   |              |                          |            |
+| Vós                   |              |                          |            |
+| Vocês / Eles / Elas   |              |                          |            |
 
 | Imperativo            |                |
 | --------------------- | -------------- |
@@ -33,6 +48,7 @@
 | Nós                   |                |
 | Vós                   |                |
 | Vocês / Eles / Elas   |                |
-
-## Links
-[[Provar]] [[Testar]] [[Experimentar]] [[Esforçar-se]] [[Learn to Use 'To Try' in 10 Minutes — Brazilian Portuguese Made Easy]]
+## Sinônimos
+[[Provar]] [[Testar]] [[Experimentar]] [[Esforçar-se]] 
+## Fonte
+[[Learn to Use 'To Try' in 10 Minutes — Brazilian Portuguese Made Easy]]

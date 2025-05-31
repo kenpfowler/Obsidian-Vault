@@ -1,4 +1,11 @@
-## (to) try your best
+(to) try your best
+
+## Usos de Esforçar-se
+| Português | Inglês |
+| :-------- | :----- |
+|           |        |
+
+## Conjugações
 
 | Gerúndio               |     | Tipo de verbo          |     |
 | :--------------------- | :-- | :--------------------- | :-- |
@@ -34,5 +41,7 @@
 | Vós                   |                |
 | Vocês / Eles / Elas   |                |
 
-## Marcadores
-[[Provar]] [[Testar]] [[Tentar]] [[Experimentar]] [[Learn to Use 'To Try' in 10 Minutes — Brazilian Portuguese Made Easy]]
+## Sinônimos
+[[Provar]] [[Testar]] [[Tentar]] [[Experimentar]] 
+## Fonte
+[[Learn to Use 'To Try' in 10 Minutes — Brazilian Portuguese Made Easy]]
