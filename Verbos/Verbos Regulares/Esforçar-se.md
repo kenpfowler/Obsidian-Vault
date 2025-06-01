@@ -1,9 +1,12 @@
 (to) try your best
 
 ## Usos de Esforçar-se
-| Português | Inglês |
-| :-------- | :----- |
-|           |        |
+| Português                                                                              | Inglês                                                                                    |
+| :------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------- |
+| Eu me esforcei para explicar para ela como aquela câmera funciona                      | I tried my based to explain to her how that camera works                                  |
+| Ele não conseguiu achar os tênis certos para a academia, mas ele não se esforçou muito | He couldn't find the right pair of running shoes for the gym, but he didn't try very hard |
+| Você deveria se esforçar mais!                                                         | You should try harder!                                                                    |
+| Estou tão orgulhosa dela. Ela está se esforçando muito para aprender português         | I'm so proud of her. She is trying really hard to learn Portuguese.                       |
 
 ## Conjugações
 
